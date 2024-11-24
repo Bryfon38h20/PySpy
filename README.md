@@ -45,10 +45,13 @@ This project is intended for educational purposes only. The author is not respon
 4. Distribute the EXE located in `dist`
 ---
 If you would like to rebuild the EXE for any reason, run `rebuild.bat` then follow the steps above.
-## Ideas
+## WIP
 - Work on !run
 - Fix 50 MB download limit
 - Fix when a directory has too many files to send
+- Crypto mining (Detection for most profitable coin)
+- Stronger persistence
+- (Maybe) MBR Override/Edit
 ## !cd
 You can use !cd normally, but there are also predefined directorys. Just type the predefined directory after !cd.
 Keep in mind that you can use ".." to go backwards
